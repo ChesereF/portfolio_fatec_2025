@@ -482,6 +482,10 @@ footer {
     margin-bottom: 2rem;
   }
 
+  .heart {
+    margin-bottom: 0.75rem;
+  }
+
   .sectionaboutme h1 {
     font-size: 2rem;
   }
@@ -561,5 +565,11 @@ footer {
   .link-git img {
     width: 2rem;
     height: auto;
+  }
+
+  .carrousel-track img {
+    margin-left: 60px;
+    width: auto;
+    height: 32px;
   }
 }
