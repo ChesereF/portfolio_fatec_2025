@@ -322,7 +322,7 @@ h3 {
 
 .carrousel-track {
   display: flex;
-  width: calc(700%);
+  width: calc(300%);
   animation: scroll 60s linear infinite;
 }
 
